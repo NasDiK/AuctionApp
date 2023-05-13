@@ -1,0 +1,7 @@
+services/api/node_modules
+services/api/dist
+
+services/enums/node_modules
+services/enums/dist
+
+services/frontend/node_modules
